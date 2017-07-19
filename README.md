@@ -1,6 +1,6 @@
 # docker-pgbouncer-postgresql
 
-Dockerized [PostgreSQL](https://www.postgresql.org/) server with a [PgBouncer](https://pgbouncer.github.io/)
+Dockerized [PostgreSQL](https://www.postgresql.org/) server with the [PgBouncer](https://pgbouncer.github.io/)
 connection pooler.
 
 ## Usage
