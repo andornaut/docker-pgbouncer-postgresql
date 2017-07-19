@@ -1,4 +1,4 @@
-FROM postgres:9.6
+FROM postgres:9.5
 
 # 5432 is exposed by the base image.
 # 6432 is used by PgBouncer
